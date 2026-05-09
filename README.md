@@ -1,6 +1,3 @@
-# GPS
-
-
 
 <h1 align="center">🌍 ESP32 GPS Cloud Tracking System</h1>
 

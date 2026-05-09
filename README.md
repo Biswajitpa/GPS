@@ -1,10 +1,9 @@
 # GPS
 <!-- 🔥 BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Biswajitpa/ESP32-GPS-Tracker/main/assets/banner.gif" 
+  <img src="https://raw.githubusercontent.com/Biswajitpa/ESP32-GPS-Tracker/main/assets/banner.png" 
        alt="ESP32 GPS Project Banner" width="100%"/>
 </p>
-
 <!-- 🛰️ LOGO -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Biswajitpa/your-repo/main/assets/logo.png" width="180"/>

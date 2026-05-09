@@ -1,19 +1,20 @@
 # GPS
-<!-- 🚀 PROJECT BANNER -->
+<!-- 🔥 BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/banner.gif" alt="Project Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Biswajitpa/your-repo/main/assets/banner.gif" alt="ESP32 GPS Project Banner" width="100%"/>
 </p>
 
 <!-- 🛰️ LOGO -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/logo.png" alt="Project Logo" width="180"/>
+  <img src="https://raw.githubusercontent.com/Biswajitpa/your-repo/main/assets/logo.png" width="180"/>
 </p>
 
 <h1 align="center">🌍 ESP32 GPS Cloud Tracking System</h1>
 
 <p align="center">
-  Real-Time GPS Tracking using ESP32 with Cloud Integration via Circuit Digest IoT Platform 🚀
+  Real-Time GPS Tracking using ESP32 with Cloud Integration (Circuit Digest IoT Platform)
 </p>
+
 
 ---
 

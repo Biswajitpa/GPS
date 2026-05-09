@@ -1,8 +1,6 @@
 # GPS
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Biswajitpa/your-repo/main/assets/logo.png" width="180"/>
-</p>
+
 
 <h1 align="center">🌍 ESP32 GPS Cloud Tracking System</h1>
 
